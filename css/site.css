@@ -1,0 +1,12 @@
+#main-content{
+	margin-top:40px;
+}
+
+#side-content{
+	margin-top:40px;
+	min-height:400px;
+}
+
+.panel-primary>.panel-heading{
+	margin-top:0px;
+}
